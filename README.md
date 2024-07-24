@@ -3,7 +3,7 @@
 - I’m currently a Masters student in Arizona State University (MCS)
 - I’m looking to collaborate in Software Development
 - How to reach me - atulprakash1492@gmail.com
-- Portfolio - https://atulprakash1492.github.io/Portfolio/
+- Portfolio - [(https://atulprakash1492.framer.website/)](https://atulprakash1492.framer.website/)
 
 <!---
 AtulPrakash1492/AtulPrakash1492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
