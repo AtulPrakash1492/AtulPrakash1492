@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I’m @AtulPrakash1492<br>I’m interested in Web Development<br>I’m a Masters graduate at Arizona State University (MCS)<br>I’m looking to collaborate in Software Development<br>How to reach me - atulprakash1492@gmail.com<br>Portfolio - (https://atulprakash1492.framer.website/)
+<br>Hi, I’m @AtulPrakash1492<br>I’m interested in Web Development<br>I’m a Masters graduate at Arizona State University (MCS)<br>I’m looking to collaborate in Software Development<br>How to reach me - atulprakash1492@gmail.com
 
 
 ## 🌐 Socials:
