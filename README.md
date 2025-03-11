@@ -3,5 +3,5 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-prakash-b65853192) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@atulpr007) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/atul-prakash-b65853192](https://www.linkedin.com/in/atulprakash1492/)](https://www.linkedin.com/in/atulprakash1492/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@atulpr007) 
 
